@@ -47,4 +47,4 @@ o build and test the MiniPascal compiler you need to execute the following comma
 where the -t parameter is to generate the symbol table and then the name of the file where the information will be saved.
 
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/casperento)
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/ZampiereMaciente)
